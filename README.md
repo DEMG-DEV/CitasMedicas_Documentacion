@@ -14,8 +14,8 @@ El sistema constará de los siguientes entregables:
     - [ ] diccionario de datos y código SQL para la creación de bases de datos y elementos de ésta
   - [ ] Manual del usuario
   - [ ] Código fuente de los proyectos
-    -[X] Escritorio
-    -[ ] Web
+    - [X] Escritorio
+    - [ ] Web
   - [ ] Software para la instalación de los módulos de secretaria y médico.
 
 > Los documentos deberán estar en formato PDF, con presentación profesional y lenguaje acorde al usuario al cual van dirigidos.
