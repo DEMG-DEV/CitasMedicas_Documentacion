@@ -7,13 +7,15 @@ El sistema constará de los siguientes entregables:
   - [ ] Reporte del análisis y diseño del proceso con UML 
     - [X] diagramas de casos de uso
     - [ ] de secuencia - colaboración
-    - [ ] de clases y objetos
+    - [X] de clases y objetos
     - [ ] de estado y de actividades
   - [ ] Reporte del análisis y diseño de los datos 
     - [ ] diagramas entidad-relación
     - [ ] diccionario de datos y código SQL para la creación de bases de datos y elementos de ésta
   - [ ] Manual del usuario
-  - [ ] Código fuente de los proyectos
+  - [ ]Código fuente de los proyectos
+    -[X] Escritorio
+    -[ ] Web
   - [ ] Software para la instalación de los módulos de secretaria y médico.
 
 > Los documentos deberán estar en formato PDF, con presentación profesional y lenguaje acorde al usuario al cual van dirigidos.
