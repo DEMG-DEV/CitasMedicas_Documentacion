@@ -13,7 +13,7 @@ El sistema constará de los siguientes entregables:
     - [ ] diagramas entidad-relación
     - [ ] diccionario de datos y código SQL para la creación de bases de datos y elementos de ésta
   - [ ] Manual del usuario
-  - [ ]Código fuente de los proyectos
+  - [ ] Código fuente de los proyectos
     -[X] Escritorio
     -[ ] Web
   - [ ] Software para la instalación de los módulos de secretaria y médico.
