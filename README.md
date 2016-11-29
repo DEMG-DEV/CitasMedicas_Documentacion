@@ -6,7 +6,7 @@ La información entrada desde el módulo de captura de citas deberá ser visuali
 El sistema constará de los siguientes entregables:
   - [ ] Reporte del análisis y diseño del proceso con UML 
     - [X] diagramas de casos de uso
-    - [ ] de secuencia - colaboración
+    - [X] de secuencia - colaboración
     - [X] de clases y objetos
     - [ ] de estado y de actividades
   - [ ] Reporte del análisis y diseño de los datos 
