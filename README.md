@@ -4,12 +4,12 @@ Se le ha encargado el desarrollo de una aplicación para el registro de citas m�
 La información entrada desde el módulo de captura de citas deberá ser visualizado en una aplicación Web por un usuario que posea el perfil de médico. La aplicación Web mostrará los datos de la cita, permitiendo además al médico ingresar datos del padecimiento y del tratamiento del paciente.
 
 El sistema constará de los siguientes entregables:
-  - [ ] Reporte del análisis y diseño del proceso con UML 
+  - [X] Reporte del análisis y diseño del proceso con UML 
     - [X] diagramas de casos de uso
     - [X] de secuencia - colaboración
     - [X] de clases y objetos
-    - [ ] de estado y de actividades
-  - [ ] Reporte del análisis y diseño de los datos 
+    - [X] de estado y de actividades
+  - [X] Reporte del análisis y diseño de los datos 
     - [X] diagramas entidad-relación
     - [X] diccionario de datos y código SQL para la creación de bases de datos y elementos de ésta
   - [ ] Manual del usuario
@@ -17,6 +17,8 @@ El sistema constará de los siguientes entregables:
     - [X] Escritorio
     - [ ] Web
   - [ ] Software para la instalación de los módulos de secretaria y médico.
+    - [ ] Escritorio
+    - [ ] Web
 
 > Los documentos deberán estar en formato PDF, con presentación profesional y lenguaje acorde al usuario al cual van dirigidos.
 
