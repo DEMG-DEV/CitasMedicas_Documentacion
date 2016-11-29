@@ -10,8 +10,8 @@ El sistema constará de los siguientes entregables:
     - [X] de clases y objetos
     - [ ] de estado y de actividades
   - [ ] Reporte del análisis y diseño de los datos 
-    - [ ] diagramas entidad-relación
-    - [ ] diccionario de datos y código SQL para la creación de bases de datos y elementos de ésta
+    - [X] diagramas entidad-relación
+    - [X] diccionario de datos y código SQL para la creación de bases de datos y elementos de ésta
   - [ ] Manual del usuario
   - [ ] Código fuente de los proyectos
     - [X] Escritorio
