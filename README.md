@@ -22,4 +22,4 @@ El sistema constará de los siguientes entregables:
 
 > Los documentos deberán estar en formato PDF, con presentación profesional y lenguaje acorde al usuario al cual van dirigidos.
 
-> La fecha límite de entrega del trabajo final será el próximo 1° de diciembre de 2016, antes de las 23:00 horas, sin excepción alguna. Tanto los documentos como el código fuente de los proyectos serán subidos a éste mismo sitio en un archivo compactado (.zip o .rar).
+> ~~La fecha límite de entrega del trabajo final será el próximo 1° de diciembre de 2016, antes de las 23:00 horas, sin excepción alguna. Tanto los documentos como el código fuente de los proyectos serán subidos a éste mismo sitio en un archivo compactado (.zip o .rar).~~
